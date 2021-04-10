@@ -7,3 +7,9 @@
 
 ### Project 2: [Smartboon](https://github.com/alitaha21/Smartboon)
 #### Smartboon is the android implementation of "Project 1". It uses Kotlin, and deals with session implementation for the login process.
+
+### Project 3: [Tic Tac Toe](https://github.com/alitaha21/tic-tac-toe-online)
+#### Python project that implements tic tac toe game to be online. With the use of GUI and ports for the implementation.
+
+### Project 4: [Chat Room](https://github.com/alitaha21/chat_room)
+#### Python project that implements an online chat room with GUI.
