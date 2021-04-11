@@ -35,7 +35,8 @@
  
  ![](/images/androidLogin.png) ![](/images/reserveAMeal.png) 
  
- ![](/images/cancelAReservation.png) ![](/images/about.png)
+ ![](/images/cancelAReservation.png) 
+ ![](/images/about.png)
 
 ### Project 4: [Tic Tac Toe](https://github.com/alitaha21/tic-tac-toe-online)
  Python project that implements tic tac toe game to be online. 
