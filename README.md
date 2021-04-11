@@ -2,6 +2,17 @@
 
 ### Project 1: [Administration](https://github.com/alitaha21/Administration)
  Administration project is an implementation of the main concepts in Laravel.
+ 
+ ![](/images/createCompany.png)
+ ![](/images/addAnEmployee.png)
+ 
+ ![](/images/displayCompanies.png)
+ ![](/images/displayEmployees.png)
+ 
+ There is an implementation for a button that changes the website's language.
+ 
+ ![](/images/navigation.png)
+ ![](/images/englishNavigation.png)
 
 ### Project 2: [SmartBoon](https://github.com/redaali1997/SmartBoon)
 
