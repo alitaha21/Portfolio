@@ -7,6 +7,7 @@
 
  SmartBoon is a Laravel project meant to solve a problem of a time-based meal ordering in a college residence restaurant.
  The project starts with a login page implementation. 
+ 
 	![](/images/Login.png)
 	
  It deals in a good way with timing conditions.
