@@ -21,8 +21,10 @@
  
  ![](/images/Login.png)
  ![](/images/ShowOrders.png)
+ 
  The project has many use cases for the students that can order and the method with which they can verify that they're the ones ordered that meal.
-  	![](/images/Students.png)
+  	
+ ![](/images/Students.png)
    
  There's a part for Database administration. 
  There's an API part that allows us to connect to an Android or IOS app. 
@@ -35,10 +37,10 @@
  Smartboon is the android implementation of "Project 2". 
  It uses Kotlin, and deals with session implementation for the login process.
  
- ![](/images/androidLogin.png) ![](/images/reserveAMeal.png) 
+ ![](/images/about.png) ![](/images/androidLogin.png) 
  
- ![](/images/cancelAReservation.png) 
- ![](/images/about.png)
+ ![](/images/reserveAMeal.png) ![](/images/cancelAReservation.png) 
+ 
 
 ### Project 4: [Tic Tac Toe](https://github.com/alitaha21/tic-tac-toe-online)
  Python project that implements tic tac toe game to be online. 
