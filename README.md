@@ -1,6 +1,9 @@
 # Portfolio
 
-### Project 1: [SmartBoon](https://github.com/redaali1997/SmartBoon)
+### Project 1: [Administration](https://github.com/alitaha21/Administration)
+#### Administration project is an implementation of the main concepts in Laravel.
+
+### Project 2: [SmartBoon](https://github.com/redaali1997/SmartBoon)
 
 #### SmartBoon is a Laravel project meant to solve a problem of a time-based meal ordering in a college residence restaurant.
 #### The project starts with a login page implementation. 
@@ -10,13 +13,13 @@
 #### There's an API part that allows us to connect to an Android or IOS app. 
 #### The API part is very simple, yet does the job in a clever way.
 
-### Project 2: [Smartboon](https://github.com/alitaha21/Smartboon)
-#### Smartboon is the android implementation of "Project 1". 
+### Project 3: [Smartboon](https://github.com/alitaha21/Smartboon)
+#### Smartboon is the android implementation of "Project 2". 
 #### It uses Kotlin, and deals with session implementation for the login process.
 
-### Project 3: [Tic Tac Toe](https://github.com/alitaha21/tic-tac-toe-online)
+### Project 4: [Tic Tac Toe](https://github.com/alitaha21/tic-tac-toe-online)
 #### Python project that implements tic tac toe game to be online. 
 #### With the use of GUI and ports for the implementation.
 
-### Project 4: [Chat Room](https://github.com/alitaha21/chat_room)
+### Project 5: [Chat Room](https://github.com/alitaha21/chat_room)
 #### Python project that implements an online chat room with GUI.
