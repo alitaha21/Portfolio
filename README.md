@@ -23,9 +23,11 @@
  ![](/images/ShowOrders.png)
  The project has many use cases for the students that can order and the method with which they can verify that they're the ones ordered that meal.
   	![](/images/Students.png)
+   
  There's a part for Database administration. 
  There's an API part that allows us to connect to an Android or IOS app. 
  The API part is very simple, yet does the job in a clever way.
+ 
   	![](/images/AddAUser.png)
   	![](/images/Moderators.png)
 
