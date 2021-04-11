@@ -28,8 +28,8 @@
  There's an API part that allows us to connect to an Android or IOS app. 
  The API part is very simple, yet does the job in a clever way.
  
-  	![](/images/AddAUser.png)
-  	![](/images/Moderators.png)
+  ![](/images/AddAUser.png)
+  ![](/images/Moderators.png)
 
 ### Project 3: [Smartboon](https://github.com/alitaha21/Smartboon)
  Smartboon is the android implementation of "Project 2". 
