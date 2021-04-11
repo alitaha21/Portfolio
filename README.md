@@ -22,6 +22,7 @@
  Smartboon is the android implementation of "Project 2". 
  It uses Kotlin, and deals with session implementation for the login process.
  ![](/images/androidLogin.png) ![](/images/reserveAMeal.png) 
+ 
  ![](/images/cancelAReservation.png) ![](/images/about.png)
 
 ### Project 4: [Tic Tac Toe](https://github.com/alitaha21/tic-tac-toe-online)
